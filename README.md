@@ -50,11 +50,6 @@ Run all cells top to bottom. This will:
 - Save model files (`cosine_sim_df.pkl`, `movies_processed.csv`)
 
 ### 3. Launch the Streamlit Web App
-```bash
-streamlit run app.py
-```
-Then open your browser to `http://localhost:8501`
-
 ---
 
 ## 🤖 Models Used
