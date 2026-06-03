@@ -86,6 +86,8 @@ Then open your browser to `http://localhost:8501`
 - streamlit
 
 ---
+## Stremlit Link 
+- https://movie-recommendation-project-aufqynd4phajejrngdf39y.streamlit.app/
 
 ## 📜 Citation
 
