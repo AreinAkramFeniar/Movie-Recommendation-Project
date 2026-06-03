@@ -89,6 +89,9 @@ Then open your browser to `http://localhost:8501`
 ## Stremlit Link 
 - https://movie-recommendation-project-aufqynd4phajejrngdf39y.streamlit.app/
 
+## Video Link 
+- https://drive.google.com/drive/folders/1aSbE-f4IZzwfrTZGgFHY2G8Bde5GUGzU
+
 ## 📜 Citation
 
 > F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context.  
@@ -96,4 +99,4 @@ Then open your browser to `http://localhost:8501`
 
 ---
 
-*Final Project — Data Science Course*
+*Final Project — By Arein Akram 221001474*
