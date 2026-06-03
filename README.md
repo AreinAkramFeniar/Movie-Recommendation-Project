@@ -1,5 +1,5 @@
 # 🎬 Movie Recommendation System
-### Final Project — Data Science Course
+### Final Project — By Arein Akram
 **Dataset: MovieLens Latest Small**
 
 ---
